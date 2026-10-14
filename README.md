@@ -1,5 +1,5 @@
 # notes
-Lab 6
+Lab 6 [link text](comp1238.md)
 
 ## Links
 - [D2L](https://learn.georgebrown.ca)
